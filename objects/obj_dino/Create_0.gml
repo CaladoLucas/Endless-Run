@@ -1,0 +1,12 @@
+global.gameOverp1 = false;
+global.resetp1 = false;
+global.livesp1 = 3;
+global.scorep1 = 0;
+global.scoreCakep1 = 0;
+grav = 7;
+jspd = 50;
+vspd = 0;
+jumping = false;
+falling = false;
+ducking = false;
+termVelocity = 50;
